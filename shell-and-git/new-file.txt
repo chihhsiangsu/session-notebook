@@ -7,3 +7,9 @@ How to link you local changes to the remote repository
 2. find the SSH link
 3. Link it with the local file with git remote add origin <ssh link>
 4. Check it with git remote -v
+Create Commit
+1. Make changes, first create a file in the folder
+2. make change for example add some text by using visual studio code
+3. save the change 
+4. go back to terminal and choose the folder yopu want to add commit by git add <folder name>
+5. add a commit with message by git commit -m "message"
