@@ -2,3 +2,8 @@ How to create a new repository in you Github
 1. Go to your Github
 2. Find your repository
 3. Create a new one with the tiltle maybe as same as your local file
+How to link you local changes to the remote repository
+1. go to your remote repository and check code
+2. find the SSH link
+3. Link it with the local file with git remote add origin <ssh link>
+4. Check it with git remote -v
