@@ -13,3 +13,5 @@ Create Commit
 3. save the change 
 4. go back to terminal and choose the folder yopu want to add commit by git add <folder name>
 5. add a commit with message by git commit -m "message"
+Push it to the remote repository
+1. add the commend : push remote -u main
