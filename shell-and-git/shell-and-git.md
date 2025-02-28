@@ -7,4 +7,6 @@ Step 2
 Make changes on the files in the new branch
 And commit on every step you make
 Step 3
-Push the branch to your remote repository by git push origin "the new branch name"
+Push the branch to your remote repository by git push -u origin "the new branch name"
+Step 4
+Go to your repository to check the pull request
