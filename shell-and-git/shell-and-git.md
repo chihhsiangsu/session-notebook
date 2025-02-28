@@ -27,3 +27,7 @@ Create the pull request, check it, merge the new branch with the main branch whe
 ### Step 6
 
 Pull the remote repository back to the local repository by git pull origin main
+
+### step 7
+
+Delete the local extra branch
