@@ -19,3 +19,15 @@ Push the branch to your remote repository by git push -u origin "the new branch 
 ### Step 4
 
 Go to your repository to check the pull request
+
+### Step 5
+
+Create the pull request, check it, merge the new branch with the main branch when it seems ok
+
+### Step 6
+
+Pull the remote repository back to the local repository by git pull origin main
+
+### step 7
+
+Delete the local extra branch
