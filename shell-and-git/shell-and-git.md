@@ -2,3 +2,6 @@
 Step 1
 Create a branch with the command: git switch -c "branch name"
 Move to the branch by git switch
+Step 2
+Make changes on the files in the new branch
+And commit on every step you make
