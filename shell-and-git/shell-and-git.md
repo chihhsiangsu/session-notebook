@@ -1,12 +1,21 @@
-2/28
+## 2/28
+
 How to create branchs and merge them in the end
-Step 1
+
+### Step 1
+
 Create a branch with the command: git switch -c "branch name"
 Move to the branch by git switch
-Step 2
+
+### Step 2
+
 Make changes on the files in the new branch
 And commit on every step you make
-Step 3
+
+### Step 3
+
 Push the branch to your remote repository by git push -u origin "the new branch name"
-Step 4
+
+### Step 4
+
 Go to your repository to check the pull request
