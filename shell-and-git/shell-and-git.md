@@ -19,3 +19,7 @@ Push the branch to your remote repository by git push -u origin "the new branch 
 ### Step 4
 
 Go to your repository to check the pull request
+
+### Step 5
+
+Create the pull request, check it, merge the new branch with the main branch when it seems ok
